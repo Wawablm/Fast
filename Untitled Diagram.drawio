@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T11:47:44.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="W3_waIzZCur7wEc1fHHd" version="15.1.4" type="github"><diagram id="G51egeTG8lJOo8AecxFX" name="Page-1">5VjbctowEP0aHslYvsJjwBRmSjpM6Uybvqm2Yqs1lkcW2M7XV45k5AvBXBLaTp/QHt1WZ8+uLAbGdJPPKUzCB+KjaKBrfj4w3IGuG5pj858SKQTijE0BBBT7AgIKWONnJEFNolvso7QxkBESMZw0QY/EMfJYA4OUkqw57IlEzV0TGKAOsPZg1EW/Yp+FAh3pjsIXCAdhtTOwx6JnA6vB8iRpCH2S1SBjNjCmlBAmWpt8iqKSvIoXMe/DK717xyiK2SkTFq65ePj4ZbwMo8UvD6w/f/qxG8pVdjDaygNLZ1lRMcBX4WRzY5KFmKF1Ar2yJ+Px5ljINhG3AG/CNBEReMI54ptOuh5W2yHKUF6DpMdzRDaI0YIPkb1DYI0kf1JApibtrBYOCYW1SFQYlAII9msrjnhD0nQGZUaXIZ9LRpqEspAEJIbRTKETSraxX3LiatxSY5aEJJK9n4ixQuofbhlpcvsqlSnZUg8dcVcGtPTxKOEURZDhXVP2h8iTU1cEc1dqgdK1ZqAMsxUBBmmAmJyngnBPKSxqw5JyQHpsJ2PckoTVUn6vb60ZvCG8UKrYM3O5UPT+3FK6AP359SbpZJpNJmy9m05AO5BP9nvlk/Vv5ZN5s3xqRcoC75VPmt3KDrM3n8yrZ9g3yMDRn5AWVxQtvsn5L8ZjadxZlenm9U63kNbVkhR6+BukC1rBdqzTpPtWcTfPqbzajSovaN1BtnWg8uq3rLx2P00o9u/Lr2huxSRGJ9LSq7Daka0DJ66w62uo1eK8/VUocqsjxBOWMm+saef/C5YzvrMuDRcAvYudfX9eEdKRi3cZ+T6zV7qzdOezLHoenvL44o/GpGymDJU1KUEU810RldBK2X017OVRJi8tpYdOATsgkSM1zWh/8zsn1rQLXmfcVI9lEQL1l4Mx+w0=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-12T12:53:45.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Fb1Wp2A7cbr9CJlIhtXP" version="15.1.4" type="github">
+  <diagram id="G51egeTG8lJOo8AecxFX" name="Page-1">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h5YAToZ42YGCLBCkM-ja-1" value="Produire de l&#39;électricité&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5YAToZ42YGCLBCkM-ja-4" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="h5YAToZ42YGCLBCkM-ja-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="210" as="sourcePoint" />
+            <mxPoint x="240" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5YAToZ42YGCLBCkM-ja-5" value="Tourner&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5YAToZ42YGCLBCkM-ja-6" value="Transformer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5YAToZ42YGCLBCkM-ja-8" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="h5YAToZ42YGCLBCkM-ja-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="280" as="sourcePoint" />
+            <mxPoint x="170" y="280" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5YAToZ42YGCLBCkM-ja-9" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="280" as="sourcePoint" />
+            <mxPoint x="200" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5YAToZ42YGCLBCkM-ja-11" value="Distribuer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5YAToZ42YGCLBCkM-ja-12" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="280" as="sourcePoint" />
+            <mxPoint x="200" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5YAToZ42YGCLBCkM-ja-15" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="h5YAToZ42YGCLBCkM-ja-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="400" as="sourcePoint" />
+            <mxPoint x="220" y="450" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
